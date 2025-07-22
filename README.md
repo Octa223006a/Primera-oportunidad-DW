@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>Aquí podrás encontrar todos los recursos utilizados durante la explicación del video</h1>
 <h2>Aquí podrás ubicar:</h2>
 <ul>
@@ -38,6 +39,11 @@
 # Motos
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.0.
+=======
+# Sobremi
+
+This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.1.
+>>>>>>> fb9346224aefebefddd51292fc67a91844daca3f
 
 ## Development server
 
